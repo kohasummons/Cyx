@@ -1,10 +1,7 @@
-# Cyx
+# 📿 Cyx
+A tiny oracle for Nigerian numbers. Cyx provides a simple way to validate a Nigerian Mobile Number, identify it's ISP and strip off it's International code prefix.
 
-- khaki provides a simple way to validate a Nigerian Mobile Number, identify it's ISP and strip off it's International code prefix.
-
-+ A tiny oracle for Nigerian numbers
-
-## How do i install it?
+## Installation
 
 This is a [Node.js](https://nodejs.org/en/) module available through the
 [npm registry](https://www.npmjs.com/). Installation is done using the
@@ -14,9 +11,9 @@ This is a [Node.js](https://nodejs.org/en/) module available through the
 npm install --save khaki
 ```
 
-## How do i use it?
+## Usage
 
-- Invite Khaki to the party
+- Invite Cyx to the party
 
 ```js
 const oracle = require('khaki');
@@ -55,16 +52,15 @@ oracle.isValid('+23490660*03847');
 
 ***
 
-### Who wrote it?
+### Author
 
-**Joshua Omobola**
+Joshua Omobola
 
 * [github/kohasummons](https://github.com/kohasummons)
 * [twitter/kohasummons](https://twitter.com/kohasummons)
 
-### What license is it released under?
+### License
 
-Copyright © 2021, [Joshua Omobola](https://github.com/kohasummons).
-Released under the [MIT License](LICENSE).
+[MIT](LICENSE).
 
 ***
