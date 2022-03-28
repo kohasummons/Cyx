@@ -1,0 +1,22 @@
+{
+  "name": "Cyx",
+  "version": "0.1.0",
+  "description": "A tiny oracle that .",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hail the Carbon factor\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "cyx",
+    "nigeria",
+    "test",
+    "parse",
+    "nigerian phone number",
+    "network provider",
+    "scrubber",
+    "isp"
+  ],
+  "author": "Joshua Omobola",
+  "license": "MIT"
+}
